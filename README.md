@@ -3,6 +3,3 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Soc and Honeypot] https://github.com/richardm5/soc-and-honeypot)</b>
-
-<h2> 🤳 Connect with me:</h2>
-
